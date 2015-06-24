@@ -60,6 +60,10 @@ background-image: url('/img/sprinkles.png');
 .site-title, .site-nav{
 	margin-top:20px;
 }
+.post-content{
+	width:20%;
+	height:70px;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
